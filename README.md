@@ -14,7 +14,7 @@ A machine learning-based web application built with Flask to **predict a student
 
 ## 📸 Preview
 
-![App Screenshot](images\Screenshot.png)
+<img src="images/Screenshot.png" alt="Prediction Page UI" width="600" height="600"/>
 
 ---
 
